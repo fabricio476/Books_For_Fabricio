@@ -75,6 +75,11 @@ call.enqueue(new Callback<User>() {
 
  ```
  
+ 7 - Execute o aplicativo e veja os dados da API sendo exibidos na sua tela.
+ 
+ 
+ -----------------------------------------------------
+ 
  * se tiver problema em receber os dados da API , utilize esse código abaixo na classe ApiServiceClient
  
  ```java
